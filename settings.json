@@ -1,0 +1,22 @@
+{
+  "fps": 30,
+  "title_enabled": true,
+  "title_duration": 3.0,
+  "end_title_enabled": true,
+  "end_title_duration": 3.0,
+  "start_hold_duration": 2.0,
+  "end_hold_duration": 2.0,
+  "move_anim_duration": 0.5,
+  "pause_after_move": 0.8,
+  "preset_name": "YouTube 1080p",
+  "theme_name": "Classic",
+  "arrow_style": "thick",
+  "ffmpeg_crf": 20,
+  "ffmpeg_preset": "medium",
+  "title_text_override": "",
+  "end_screen_text": "",
+  "show_logo_watermark": true,
+  "flip_board": false,
+  "bg_color_override": null,
+  "output_dir": "E:\\YoutubeProjects\\ChessShogiPuzzleViz\\exports"
+}
